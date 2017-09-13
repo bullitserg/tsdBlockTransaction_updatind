@@ -1,0 +1,2 @@
+# tsdBlockTransaction_updatind
+Обновление таблицы tsdBlockTransaction
